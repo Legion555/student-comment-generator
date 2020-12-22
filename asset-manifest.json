@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/student-comment-generator/static/css/main.73c25eaa.chunk.css",
+    "main.js": "/student-comment-generator/static/js/main.b8f1accf.chunk.js",
+    "main.js.map": "/student-comment-generator/static/js/main.b8f1accf.chunk.js.map",
+    "runtime-main.js": "/student-comment-generator/static/js/runtime-main.09cf0232.js",
+    "runtime-main.js.map": "/student-comment-generator/static/js/runtime-main.09cf0232.js.map",
+    "static/css/2.150ed23d.chunk.css": "/student-comment-generator/static/css/2.150ed23d.chunk.css",
+    "static/js/2.1ff83980.chunk.js": "/student-comment-generator/static/js/2.1ff83980.chunk.js",
+    "static/js/2.1ff83980.chunk.js.map": "/student-comment-generator/static/js/2.1ff83980.chunk.js.map",
+    "index.html": "/student-comment-generator/index.html",
+    "static/css/2.150ed23d.chunk.css.map": "/student-comment-generator/static/css/2.150ed23d.chunk.css.map",
+    "static/css/main.73c25eaa.chunk.css.map": "/student-comment-generator/static/css/main.73c25eaa.chunk.css.map",
+    "static/js/2.1ff83980.chunk.js.LICENSE.txt": "/student-comment-generator/static/js/2.1ff83980.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/student-comment-generator/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09cf0232.js",
+    "static/css/2.150ed23d.chunk.css",
+    "static/js/2.1ff83980.chunk.js",
+    "static/css/main.73c25eaa.chunk.css",
+    "static/js/main.b8f1accf.chunk.js"
+  ]
+}
